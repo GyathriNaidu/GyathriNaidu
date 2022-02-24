@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning full stack web devolopment
 - 🌱 I’m currently learning ...html,css and js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... through insta link"jyothi naidu"(go to instagram.com/jyothi naidu)
+- 📫 How to reach me ... 
 
 <!---
 GyathriNaidu/GyathriNaidu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
